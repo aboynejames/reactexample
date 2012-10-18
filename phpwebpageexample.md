@@ -1,7 +1,4 @@
-reactexample
-============
-
-Simple PHP REACT two webpage example
+# React build webpages example
 
 ## Example Goal
 
